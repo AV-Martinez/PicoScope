@@ -1,4 +1,4 @@
 # PicoScope
-Oscilloscope based on RP2040 (Raspberry Pi Pico). 
+PC oscilloscope based on the RP2040 microcontroller (Raspberry Pi Pico). 
 
 Check the Wiki for documentation.
